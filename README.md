@@ -11,4 +11,7 @@ There are two ways to trigger:
   b → both
 2. Hardware TTL triggers — pins 10 (left) and 12 (right). 
 
-Requires the TeensyStep library,
+Requires the TeensyStep library.
+
+As used in Zahler, S. H., Taylor, D. E., Wong, J. Y., Adams, J. M. & Feinberg, E. H. Superior colliculus drives stimulus-evoked directionally biased saccades and attempted head movements in head-fixed mice. eLife 10, 1–25 (2021).
+
